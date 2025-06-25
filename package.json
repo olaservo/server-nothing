@@ -1,0 +1,26 @@
+{
+  "name": "server-nothing",
+  "version": "0.1.0",
+  "description": "Test MCP server that complies with the spec but offers no capabilities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github.com/hesreallyhim/server-nothing.git"
+  },
+  "keywords": [
+    "mcp"
+  ],
+  "author": "hesreallyhim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hesreallyhim/server-nothing/issues"
+  },
+  "homepage": "https://github.com/hesreallyhim/server-nothing#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.13.1"
+  }
+}
